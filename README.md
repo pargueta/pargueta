@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @pargueta
+- 😄 my current job is in Zigi as backend developer
